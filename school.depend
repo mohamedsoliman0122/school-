@@ -1,0 +1,33 @@
+# depslib dependency file v1.0
+1665142061 source:d:\c\school\student.c
+	"student.h"
+
+1665131571 d:\c\school\student.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<windows.h>
+
+1664591226 source:d:\c\school\main.c
+	"function.c"
+	"student.h"
+
+1663974393 source:d:\c\school\dataofstudent.c
+	"student.h"
+
+1665141744 d:\c\school\function.c
+	"student.h"
+
+1664587626 source:m:\embedded system\codes\c\school\main.c
+	"function.c"
+	"student.h"
+
+1665138144 m:\embedded system\codes\c\school\function.c
+	"student.h"
+
+1665127971 m:\embedded system\codes\c\school\student.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<windows.h>
+
